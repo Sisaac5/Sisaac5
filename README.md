@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Sisaac5">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sisaac5&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&locale=pt-BR"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sisaac5&count_private=true&&langs_count=3ayout=compact&theme=github_dark&locale=pt-BR"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sisaac5&count_private=true&&langs_count=3ayout=compact&theme=github_dark&locale=pt-BR"/>
   </a>
 </div>
 <br>
