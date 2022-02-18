@@ -4,13 +4,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/Sisaac5">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Sisaac5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sisaac5&layout=compact&langs_count=5&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sisaac5&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&locale=pt-BR"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sisaac5&count_private=true&&langs_count=3ayout=compact&theme=github_dark&locale=pt-BR"/>
   </a>
 </div>
 <br>
 
-### Linguagens e Aplicações:
+### Linguagens:
 <div style="display: inline_block">
   <img align="center" alt="isaac-arduino" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="isaac-c" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
