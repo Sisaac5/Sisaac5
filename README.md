@@ -1,6 +1,8 @@
-### Olá! Sou Isaac!
+### Hello, I'm Isaac!
 
-- 🌱 Apredendo `Python`, `Django`
+- 🖥️ Computer Engineering Student (UFPB);
+- 💡 Electrical Technician (IFPB);
+- 🥊 Boxe Lover;
 <br>
 <div align="center">
   <a href="https://github.com/Sisaac5">
