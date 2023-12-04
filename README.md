@@ -2,7 +2,8 @@
 
 - 🖥️ Computer Engineering Student (UFPB);
 - 💡 Electrical Technician (IFPB);
-- 🥊 Boxe Lover;
+- 🥊 Boxing fan;
+- 🐕 Dog lover;
 <br>
 <div align="center">
   <a href="https://github.com/Sisaac5">
