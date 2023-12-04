@@ -12,7 +12,7 @@
 </div>
 <br>
 
-### Tecnologias:
+### Technologies:
 <div style="display: inline_block">
   <img align="center" alt="isaac-c" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="isaac-cpp" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
